@@ -1,0 +1,19 @@
+{
+  "files": {
+    "home-page.js": "/films-app/static/js/home-page.67f175d9.chunk.js",
+    "home-page.js.map": "/films-app/static/js/home-page.67f175d9.chunk.js.map",
+    "main.js": "/films-app/static/js/main.afbf89df.chunk.js",
+    "main.js.map": "/films-app/static/js/main.afbf89df.chunk.js.map",
+    "runtime~main.js": "/films-app/static/js/runtime~main.600d3ed8.js",
+    "runtime~main.js.map": "/films-app/static/js/runtime~main.600d3ed8.js.map",
+    "user-list.js": "/films-app/static/js/user-list.38765655.chunk.js",
+    "user-list.js.map": "/films-app/static/js/user-list.38765655.chunk.js.map",
+    "static/js/4.664848c2.chunk.js": "/films-app/static/js/4.664848c2.chunk.js",
+    "static/js/4.664848c2.chunk.js.map": "/films-app/static/js/4.664848c2.chunk.js.map",
+    "static/js/5.011ba811.chunk.js": "/films-app/static/js/5.011ba811.chunk.js",
+    "static/js/5.011ba811.chunk.js.map": "/films-app/static/js/5.011ba811.chunk.js.map",
+    "index.html": "/films-app/index.html",
+    "precache-manifest.91aec150ffcd3b58a2db593effe91d48.js": "/films-app/precache-manifest.91aec150ffcd3b58a2db593effe91d48.js",
+    "service-worker.js": "/films-app/service-worker.js"
+  }
+}
