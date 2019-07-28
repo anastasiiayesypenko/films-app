@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{66:function(n,e,t){"use strict";t.r(e);var r=t(0),u=t.n(r);e.default=function(){return u.a.createElement("div",null," User ")}}}]);
-//# sourceMappingURL=user-list.38765655.chunk.js.map
