@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{69:function(e,t,l){"use strict";l.r(t);var a=l(0),n=l.n(a),i=l(10);t.default=function(){return n.a.createElement("div",null,n.a.createElement("h2",null," My list ")," ",n.a.createElement("ul",null,n.a.createElement("li",null,n.a.createElement(i.b,{to:"/list/favorites"}," Favorite movies ")," ")," ",n.a.createElement("li",null,n.a.createElement(i.b,{to:"/list/watched"}," Already watched movies ")," ")," ")," ")}}}]);
-//# sourceMappingURL=user-list.1c9cde1c.chunk.js.map
