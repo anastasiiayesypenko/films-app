@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae6baa45de433073cd9e90d076448e2d",
+    "revision": "e669a51d64b54556a914c33ee4940f7a",
     "url": "/films-app/index.html"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/films-app/static/css/favorites-page.e78077f2.chunk.css"
   },
   {
-    "revision": "20d98056e7bfd514849a",
-    "url": "/films-app/static/css/film-page.2afb4db6.chunk.css"
+    "revision": "b686958198044089eb31",
+    "url": "/films-app/static/css/film-page.4ccf9133.chunk.css"
   },
   {
-    "revision": "34a0305611f5336d2c40",
-    "url": "/films-app/static/css/home-page.3c2416b5.chunk.css"
+    "revision": "018cf42507746cf7eb26",
+    "url": "/films-app/static/css/home-page.ed401ebe.chunk.css"
   },
   {
     "revision": "958d81cb1a04870f91bf",
@@ -48,20 +48,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/films-app/static/js/favorites-page.91695e9b.chunk.js"
   },
   {
-    "revision": "20d98056e7bfd514849a",
+    "revision": "b686958198044089eb31",
     "url": "/films-app/static/js/film-page.2cc992af.chunk.js"
   },
   {
-    "revision": "34a0305611f5336d2c40",
-    "url": "/films-app/static/js/home-page.2980d399.chunk.js"
+    "revision": "018cf42507746cf7eb26",
+    "url": "/films-app/static/js/home-page.f9a6a0f1.chunk.js"
   },
   {
     "revision": "958d81cb1a04870f91bf",
     "url": "/films-app/static/js/main.71311827.chunk.js"
   },
   {
-    "revision": "e9b0ecc5b83e9a02e253",
-    "url": "/films-app/static/js/runtime~main.21e9060c.js"
+    "revision": "a8ec05489af7c17b49af",
+    "url": "/films-app/static/js/runtime~main.e245ae24.js"
   },
   {
     "revision": "2b781d1f2b1b92f7328d",
