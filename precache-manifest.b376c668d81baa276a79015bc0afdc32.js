@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d986cb0f2f83a293d6559fd41235a4e",
+    "revision": "bb71d30865bdf418d6c2dd8cff892c9b",
     "url": "/films-app/index.html"
   },
   {
@@ -8,27 +8,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/films-app/static/css/9.39017165.chunk.css"
   },
   {
-    "revision": "d9475b12f9d4c5507701",
+    "revision": "480602fda3f96714384f",
     "url": "/films-app/static/css/favorites-page.e78077f2.chunk.css"
   },
   {
-    "revision": "e62f123cb9f6bf31613a",
+    "revision": "806b250d463aa9ef062c",
     "url": "/films-app/static/css/film-page.d1ce8e07.chunk.css"
   },
   {
-    "revision": "5c56967bee5fdd554c66",
-    "url": "/films-app/static/css/home-page.1c50c4e6.chunk.css"
+    "revision": "8bed978b8a883aefac6b",
+    "url": "/films-app/static/css/home-page.abec448d.chunk.css"
   },
   {
-    "revision": "c172a7a60f7c33261939",
+    "revision": "bdf99095c545513c741e",
     "url": "/films-app/static/css/main.6f7816a2.chunk.css"
   },
   {
-    "revision": "5138b6fb2e04db4e156d",
+    "revision": "b9417f50c1c38bae7f87",
     "url": "/films-app/static/css/user-list.e78077f2.chunk.css"
   },
   {
-    "revision": "928bd81615cf96f8e362",
+    "revision": "1c0881b7b2ff7950c4c4",
     "url": "/films-app/static/css/watched-page.e78077f2.chunk.css"
   },
   {
@@ -44,32 +44,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/films-app/static/js/9.5b2b484d.chunk.js"
   },
   {
-    "revision": "d9475b12f9d4c5507701",
-    "url": "/films-app/static/js/favorites-page.6777536b.chunk.js"
+    "revision": "480602fda3f96714384f",
+    "url": "/films-app/static/js/favorites-page.bab1eb1d.chunk.js"
   },
   {
-    "revision": "e62f123cb9f6bf31613a",
-    "url": "/films-app/static/js/film-page.08e9744a.chunk.js"
+    "revision": "806b250d463aa9ef062c",
+    "url": "/films-app/static/js/film-page.6f6e24ec.chunk.js"
   },
   {
-    "revision": "5c56967bee5fdd554c66",
-    "url": "/films-app/static/js/home-page.ffb448aa.chunk.js"
+    "revision": "8bed978b8a883aefac6b",
+    "url": "/films-app/static/js/home-page.4f03b3d3.chunk.js"
   },
   {
-    "revision": "c172a7a60f7c33261939",
-    "url": "/films-app/static/js/main.054cf18f.chunk.js"
+    "revision": "bdf99095c545513c741e",
+    "url": "/films-app/static/js/main.91fa3263.chunk.js"
   },
   {
-    "revision": "a0d3147d0670735b5904",
-    "url": "/films-app/static/js/runtime~main.bff74102.js"
+    "revision": "60dbbf310f63018a6eb1",
+    "url": "/films-app/static/js/runtime~main.6da9adfd.js"
   },
   {
-    "revision": "5138b6fb2e04db4e156d",
-    "url": "/films-app/static/js/user-list.9d90e791.chunk.js"
+    "revision": "b9417f50c1c38bae7f87",
+    "url": "/films-app/static/js/user-list.56fad99f.chunk.js"
   },
   {
-    "revision": "928bd81615cf96f8e362",
-    "url": "/films-app/static/js/watched-page.349eb9ae.chunk.js"
+    "revision": "1c0881b7b2ff7950c4c4",
+    "url": "/films-app/static/js/watched-page.ea322186.chunk.js"
   },
   {
     "revision": "e415b16110adf49f41702865fa0fbb53",
