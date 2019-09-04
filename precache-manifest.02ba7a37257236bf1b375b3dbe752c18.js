@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db1e0d11cbc26818f199fa7f516029ef",
+    "revision": "3cf774a83d5b6c50a8688c3a000018ad",
     "url": "/films-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/films-app/static/css/9.39017165.chunk.css"
   },
   {
-    "revision": "4cb6eb91aeafb256beda",
+    "revision": "d4704891fb8965d1572e",
     "url": "/films-app/static/css/favorites-page.910d512e.chunk.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/films-app/static/css/user-list.910d512e.chunk.css"
   },
   {
-    "revision": "cd941962d2757abc5ffa",
+    "revision": "07f4e40b0dd8f87ecc7f",
     "url": "/films-app/static/css/watched-page.910d512e.chunk.css"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/films-app/static/js/9.19f85cb3.chunk.js"
   },
   {
-    "revision": "4cb6eb91aeafb256beda",
-    "url": "/films-app/static/js/favorites-page.dece639f.chunk.js"
+    "revision": "d4704891fb8965d1572e",
+    "url": "/films-app/static/js/favorites-page.2b277601.chunk.js"
   },
   {
     "revision": "895200bb48346ea7e1a7",
@@ -60,16 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/films-app/static/js/main.1d85b75d.chunk.js"
   },
   {
-    "revision": "d92595c6cdd948fb6bfc",
-    "url": "/films-app/static/js/runtime~main.41d28d93.js"
+    "revision": "e15e7079d4ce4d4de958",
+    "url": "/films-app/static/js/runtime~main.7c8fe232.js"
   },
   {
     "revision": "ae9f2b2dbcf3a687da72",
     "url": "/films-app/static/js/user-list.08e61a89.chunk.js"
   },
   {
-    "revision": "cd941962d2757abc5ffa",
-    "url": "/films-app/static/js/watched-page.059f40c9.chunk.js"
+    "revision": "07f4e40b0dd8f87ecc7f",
+    "url": "/films-app/static/js/watched-page.0944d273.chunk.js"
   },
   {
     "revision": "e415b16110adf49f41702865fa0fbb53",
